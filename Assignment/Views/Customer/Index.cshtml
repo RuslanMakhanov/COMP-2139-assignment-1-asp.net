@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Assignment.Models.CustomerModel>
+
+<p>
+    <a asp-action="InputForm">Create New</a>
+    <div class="margin-right">
+    <a asp-action="Searchform">Search</a>
+    </div>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.fName)
+            </th>
+            
+           
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            
+            
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.fName)
+            </td>
+            
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            
+           
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+           
+            <td>
+               <a href="/Customer/Edit/@item.id">Edit</a> |
+                <a href="/Customer/ShowDetails/@item.id">Show Details</a> |
+
+                <a id="shw" href="/Customer/Delete/@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
