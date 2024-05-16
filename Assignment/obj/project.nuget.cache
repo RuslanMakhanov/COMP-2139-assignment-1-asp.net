@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GEllNhvrEckIrdFXmT3lez3pyODXGtWE1bKUY6/Pomiq3pjmMm6c2wh1GLpfy3LnjEcA8+SCQtLdIvL0jLHNww==",
+  "dgSpecHash": "k+GCp+qP4EMBxOg9NJgat5pedTRDzVb6iJ6zOPRrDfyUWaDTKeP4NlclHlIrX7aroK+xEUmIB76bUQYrgZRvXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RuslanNnNn\\Desktop\\Assignment — copy\\Assignment\\Assignment.csproj",
+  "projectFilePath": "C:\\Users\\RuslanNnNn\\Desktop\\ASP.NET_old_Project\\COMP-2139-assignment-1-asp.net\\Assignment\\Assignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RuslanNnNn\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
     "C:\\Users\\RuslanNnNn\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

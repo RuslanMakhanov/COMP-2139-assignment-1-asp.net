@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RuslanNnNn\\Desktop\\Assignment — copy\\Assignment\\Assignment.csproj": {}
+    "C:\\Users\\RuslanNnNn\\Desktop\\ASP.NET_old_Project\\COMP-2139-assignment-1-asp.net\\Assignment\\Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RuslanNnNn\\Desktop\\Assignment — copy\\Assignment\\Assignment.csproj": {
+    "C:\\Users\\RuslanNnNn\\Desktop\\ASP.NET_old_Project\\COMP-2139-assignment-1-asp.net\\Assignment\\Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RuslanNnNn\\Desktop\\Assignment — copy\\Assignment\\Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\RuslanNnNn\\Desktop\\ASP.NET_old_Project\\COMP-2139-assignment-1-asp.net\\Assignment\\Assignment.csproj",
         "projectName": "Assignment",
-        "projectPath": "C:\\Users\\RuslanNnNn\\Desktop\\Assignment — copy\\Assignment\\Assignment.csproj",
+        "projectPath": "C:\\Users\\RuslanNnNn\\Desktop\\ASP.NET_old_Project\\COMP-2139-assignment-1-asp.net\\Assignment\\Assignment.csproj",
         "packagesPath": "C:\\Users\\RuslanNnNn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RuslanNnNn\\Desktop\\Assignment — copy\\Assignment\\obj\\",
+        "outputPath": "C:\\Users\\RuslanNnNn\\Desktop\\ASP.NET_old_Project\\COMP-2139-assignment-1-asp.net\\Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RuslanNnNn\\AppData\\Roaming\\NuGet\\NuGet.Config"
